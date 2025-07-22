@@ -1,3 +1,3 @@
 # New-project
 exploring
-auathor-dd
+Author-dd
